@@ -15,6 +15,7 @@ import javax.swing.JTextArea;
 import javax.swing.border.Border;
 
 public class Calculator {
+	// Add JFrame Class for a frame
 	
 	JFrame frame = new JFrame();
 	JPanel panel = new JPanel();
